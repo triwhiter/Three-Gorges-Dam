@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Low Poly Asia - Far East/Bonus Scenes/The_Statues.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
